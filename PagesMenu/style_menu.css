@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;900&display=swap');
+
+h1,h2{
+
+	font-family: 'Shrikhand',sans-serif;
+
+}
+
+p{
+
+	font-family: 'Roboto:wght@300',sans-serif;
+	font-size: 0.8em;
+
+}
+
+span{
+
+	font-family: 'Roboto';
+	font-size: 1.1em; 
+	font-weight: 600;
+
+}
+
+.sous_menu{
+
+	background-color: white;
+	border-radius: 15px;
+	padding: 10px 15px 10px 10px;
+	align-items: center;
+	height: 30px;
+	margin-bottom: 15px;
+	margin-right: 20px;
+	box-shadow: 1px 1px 8px #CECFCF;
+
+}
+
+
+
+.sous_menu p{
+
+	margin: 0;
+
+}
+
+.menu{
+
+	margin-bottom: 30px;
+
+}
+
+.barre{
+
+	position: relative;
+	height: 3px;
+	width: 40px;
+	background-color: #3EEBC3;
+	margin-bottom: 20px;
+
+}
+
+.complement_menu{
+
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+
+}
+
+h1{
+
+	text-align: center;
+	margin: 0;
+
+}
+
+.masque{
+
+	width: 75%;
+	overflow: hidden;
+	word-wrap: break-word;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+
+}
+
+h2{
+
+	font-size: 1.2em;
+	margin: 0;
+
+}
+
+header img{
+
+	position: relative;
+	top: 40px;
+	z-index: -1;
+	width: 100%;
+	height: 270px;
+	margin-top: 15px;
+	object-fit: cover;
+
+}
+
+header a{
+
+	position: relative;
+	top: 37px;
+	left: 20px;
+	color: black;
+	opacity: 0.8;
+	font-size: 1.3em;
+}
+
+section{
+
+	align-items: center;
+	padding: 20px 0px 70px 25px;
+	position: relative;
+	margin: 0;
+	/*top: -90px;*/
+	background-color: #F6F6F6;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+
+}
+
+.icone_coeur{
+
+	font-size: 1.4em;
+	opacity: 0.8;
+	position: relative;
+	margin-left: 80%;
+	top: -25px;
+
+}
+
+input{
+
+	position: relative;
+	width: 50%;
+	height: 40px;
+	margin-top: 25px;
+	margin-left: 20%;
+	border-style: none;
+	background : linear-gradient(#FF79DA,#9356DC);
+	box-shadow: 2px 2px 8px #B3B3B3;
+	border-radius: 25px;
+	color: white;
+
+}
+
+.ic_p{
+
+	display: flex;
+	align-items: center;
+	/*border: 2px solid green;*/
+	/*margin-bottom: 5px;*/
+
+}
+
+.ic_p p{
+
+	margin-left: 10px;
+	font-weight: 600;
+
+}
+
+.ic_p i{
+
+	position: relative;
+	top: -4px;
+	font-size: 0.8em;
+	width: 15px;
+	text-align: center;
+
+}
+
+footer{
+
+	background-color: #2F3C39;
+	color: white;
+	padding-top: 5px;
+	padding-left: 25px;
+	padding-bottom: 30px;
+
+}
+
+footer p{
+
+	padding: 0px;
+	margin: 0px 0px 10px 0px;
+	font-size: 0.8em;
+
+}
+
+footer h4{
+
+	font-family: 'Shrikhand' ;
+	font-weight: 500;
+
+}
