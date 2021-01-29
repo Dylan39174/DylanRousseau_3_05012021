@@ -191,34 +191,6 @@ body{
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @keyframes bouton_normal{
 
 	from{
@@ -425,9 +397,10 @@ header img{
 .nouveau{
 
 	position: relative;
-	height: 25px;
+	height: 30px;
+	border-radius: 5px;
 	width: 30%;
-	line-height: 25px;
+	line-height: 30px;
 	text-align: center;
 	left: 65%;
 	top: -140px;
@@ -490,7 +463,7 @@ section{
 .texte_restaurant{
 
 	position: relative;
-	top: -24px;
+	top: -29px;
 	display: flex;
 	height: 55px;
 	justify-content: space-between;
