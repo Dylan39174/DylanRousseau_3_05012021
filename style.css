@@ -460,10 +460,17 @@ section{
 
 }
 
-.texte_restaurant{
+.sous_groupe_restaurant:nth-child(2) .texte_restaurant{
 
 	position: relative;
 	top: -29px;
+
+}
+
+.texte_restaurant{
+
+	position: relative;
+	/*top: -29px;*/
 	display: flex;
 	height: 55px;
 	justify-content: space-between;
@@ -643,6 +650,12 @@ footer a{
 
 }
 
+.sous_groupe_restaurant:nth-child(3) .restaurant{
+
+	margin-bottom: 30px;
+
+}
+
 }
 
 
@@ -774,6 +787,7 @@ footer a{
 	display: flex;
 	flex-direction: column;
 	background-color: #E1E1E1;
+	border-top-right-radius: 15px;
 	text-align: center;
 	padding: 2%;
 
