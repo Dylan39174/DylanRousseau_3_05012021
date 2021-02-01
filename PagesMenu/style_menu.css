@@ -90,6 +90,12 @@ span{
 
 }
 
+address a{
+
+	font-style: normal;
+
+}
+
 .menu h3,.menu p{
 
 	margin: 0;
@@ -383,7 +389,7 @@ input:hover{
 .ic_p a{
 
 	margin-left: 10px;
-	font-weight: 300;
+	font-weight: 600;
 
 }
 

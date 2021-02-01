@@ -258,8 +258,10 @@ a{
 
 	color: white;
 	text-decoration: none;
+	font-style: normal;
 
 }
+
 
 h2,h3{
 
@@ -288,6 +290,15 @@ header img{
 	align-items: center;
 	background: linear-gradient(to top, #ECECEC 90%, #CECECE);
 	margin-top: 5px;
+
+}
+
+.zone_texte{
+
+	border-style: none;
+	background-color: #EEE;
+	margin: 10px;
+	padding: 10px;
 
 }
 
@@ -329,7 +340,7 @@ header img{
 
 }
 
-.présentation{
+.presentation{
 
 	text-align: justify;
 
@@ -418,7 +429,7 @@ header img{
 
 }
 
-.Fonctionnement h3{
+.fonctionnement h3{
 
 	margin-left: 15px;
 
