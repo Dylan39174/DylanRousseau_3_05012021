@@ -296,14 +296,14 @@ header img{
 
 .zone_texte{
 
+	width: 100px;
 	border-style: none;
-	background-color: #FFF;
-	border-radius: 5px;
-	border: 1px solid black;
+	background-color: #EEE;
 	margin: 10px;
 	padding: 10px;
 
 }
+
 
 .localisation p{
 
