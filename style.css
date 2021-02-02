@@ -481,7 +481,6 @@ section{
 .texte_restaurant{
 
 	position: relative;
-	/*top: -29px;*/
 	display: flex;
 	height: 55px;
 	justify-content: space-between;
@@ -632,7 +631,7 @@ footer a:hover{
 
 }
 
-.présentation {
+.presentation {
 
 	margin-bottom: 30px;
 	margin-top: 20px;
@@ -682,7 +681,7 @@ footer a{
 
 @media screen and (min-width: 600px) and (max-width: 1004px){
 
-.présentation {
+.presentation {
 
 	position: relative;
 	height: 100%;
@@ -690,7 +689,7 @@ footer a{
 	padding: 10px;
 }
 
-.Fonctionnement{
+.fonctionnement{
 
 	width: 45%;
 	padding: 15px 0px 20px 0px;
@@ -703,6 +702,7 @@ footer a{
 	justify-content: space-around;
 	background-color: #F6F6F6;
 	margin-top: 10px;
+	padding-bottom: 20px;
 
 }
 
