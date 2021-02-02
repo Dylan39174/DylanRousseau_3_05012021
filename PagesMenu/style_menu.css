@@ -126,7 +126,7 @@ address a{
 	padding: 0px 10px 0px 10px;
 	width: 90%;
 	height: 65px;
-	margin-bottom: 10px;
+	margin: 10px;
 	background-color: white;
 	border-radius: 15px;
 	display: flex;
